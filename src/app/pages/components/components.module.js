@@ -10,6 +10,7 @@
     'BlurAdmin.pages.components.timeline',
     'BlurAdmin.pages.components.tree',
     'BlurAdmin.pages.components.companies',
+    'BlurAdmin.services.companies'
   ])
       .config(routeConfig);
 
